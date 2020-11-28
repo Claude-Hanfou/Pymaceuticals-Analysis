@@ -38,6 +38,13 @@ Bar chart with DataFrame.plot
 Bar chart with DataFrame.pyplot
 ![alt text](https://github.com/Claude-Hanfou/Pymaceuticals-Analysis/blob/main/Pymaceuticals/Image/bar.pyplot.PNG "Bar 2")
 
+Pie chart with DataFrame.pyplot
+![alt text](https://github.com/Claude-Hanfou/Pymaceuticals-Analysis/blob/main/Pymaceuticals/Image/pie.pandas.PNG "Pie 1")
+
+Pie chart with DataFrame.pyplot
+![alt text](https://github.com/Claude-Hanfou/Pymaceuticals-Analysis/blob/main/Pymaceuticals/Image/pie.pyplot.PNG "Pie 2")
+
+
 ### Quartiles, Outliers and Boxplots
 
 The final tumor volume of each mouse across four of the most promising treatment regimens was created: Capomulin, Ramicane, Infubinol, and Ceftamin. Afterward the quartiles, IQR, and potential outliers across all the four treatment regimens was quantitatively determined.
