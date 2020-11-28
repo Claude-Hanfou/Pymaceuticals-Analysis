@@ -13,7 +13,7 @@ Pymaceuticals specializes in anti-cancer pharmaceuticals. In its most recent eff
 
 ## Table of Contents
 * Data cleaning
-* summary statistics
+* Summary Statistics
 * Bar and Pie Charts
 * Quartiles, Outliers and Boxplots
 * Line and Scatter Plots
