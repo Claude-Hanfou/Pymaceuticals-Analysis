@@ -48,7 +48,6 @@ Pie chart with DataFrame.pyplot
 ### Quartiles, Outliers and Boxplots
 
 The final tumor volume of each mouse across four of the most promising treatment regimens was created: Capomulin, Ramicane, Infubinol, and Ceftamin. Afterward the quartiles, IQR, and potential outliers across all the four treatment regimens was quantitatively determined.
-![alt text]()
 
 #### A Box and Whiskers Plot
 A box and whisker plot of the final tumor volume for all four treatment regimens was generated.
