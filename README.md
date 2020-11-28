@@ -57,6 +57,7 @@ A box and whisker plot of the final tumor volume for all four treatment regimens
 
 ### Line and Scatter Plots
 The line chart was generated for a selected mouse (b742) treated with Capomulin analyzing tumor volume vs. time point.
+
 ![alt text](https://github.com/Claude-Hanfou/Pymaceuticals-Analysis/blob/main/Pymaceuticals/Image/line%20chart.PNG "Line chart")
 
 The scatter plot scatter plot of average tumor volume vs. mouse weight for the Capomulin regimen
