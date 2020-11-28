@@ -44,22 +44,22 @@ Pie chart with DataFrame.plot
 
 Pie chart with DataFrame.pyplot
 ![alt text]( "Pie 2https://github.com/Claude-Hanfou/Pymaceuticals-Analysis/blob/main/Pymaceuticals/Image/pie.pyplot.PNG "Pie 2")
+
 ### Quartiles, Outliers and Boxplots
 
 The final tumor volume of each mouse across four of the most promising treatment regimens was created: Capomulin, Ramicane, Infubinol, and Ceftamin. Afterward the quartiles, IQR, and potential outliers across all the four treatment regimens was quantitatively determined.
-![alt text](https://github.com/Claude-Hanfou/PyBank-and-PyPoll-Python-Analysis/blob/main/image/Financial.PNG "Financial analysis 1")
-
-
-### Line and Scatter Plots
-The line chart was generated for a selected mouse (b742) treated with Capomulin analyzing tumor volume vs. time point.
-![alt text]https://github.com/Claude-Hanfou/Pymaceuticals-Analysis/blob/main/Pymaceuticals/Image/line%20chart.PNG "Line chart")
-
-The scatter plot scatter plot of average tumor volume vs. mouse weight for the Capomulin regimen
-![alt text](https://github.com/Claude-Hanfou/Pymaceuticals-Analysis/blob/main/Pymaceuticals/Image/scatter%20plot.PNG "Scatter 1")
+![alt text]()
 
 #### A Box and Whiskers Plot
 A box and whisker plot of the final tumor volume for all four treatment regimens was generated.
 ![alt text](https://github.com/Claude-Hanfou/Pymaceuticals-Analysis/blob/main/Pymaceuticals/Image/boxplot.PNG "Box plot")
+
+### Line and Scatter Plots
+The line chart was generated for a selected mouse (b742) treated with Capomulin analyzing tumor volume vs. time point.
+![alt text](https://github.com/Claude-Hanfou/Pymaceuticals-Analysis/blob/main/Pymaceuticals/Image/line%20chart.PNG "Line chart")
+
+The scatter plot scatter plot of average tumor volume vs. mouse weight for the Capomulin regimen
+![alt text](https://github.com/Claude-Hanfou/Pymaceuticals-Analysis/blob/main/Pymaceuticals/Image/scatter%20plot.PNG "Scatter 1")
 
 ### Correlation and Regression
 A correlation coefficient, and linear regression analysis was conducted between mouse weight and average tumor volume for the Capomulin treatment. A Plot of the linear regression model created on top of the previous scatter plot.
