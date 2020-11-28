@@ -1,6 +1,7 @@
 # Pymaceuticals-Analysis
 
 ## Matplotlib - The Power of Plots
+![alt text](https://github.com/Claude-Hanfou/Pymaceuticals-Analysis/blob/main/Pymaceuticals/Image/Laboratory.jpg "Laboratory")
 
 ## Background
 
