@@ -43,7 +43,7 @@ Pie chart with DataFrame.plot
 ![alt text](https://github.com/Claude-Hanfou/Pymaceuticals-Analysis/blob/main/Pymaceuticals/Image/pie.pandas.PNG "Pie 1")
 
 Pie chart with DataFrame.pyplot
-![alt text]( "Pie 2https://github.com/Claude-Hanfou/Pymaceuticals-Analysis/blob/main/Pymaceuticals/Image/pie.pyplot.PNG "Pie 2")
+![alt text](https://github.com/Claude-Hanfou/Pymaceuticals-Analysis/blob/main/Pymaceuticals/Image/pie.pyplot.PNG "Pie 2")
 
 ### Quartiles, Outliers and Boxplots
 
