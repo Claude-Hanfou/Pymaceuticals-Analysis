@@ -1,6 +1,7 @@
 # Pymaceuticals-Analysis
 
 ## Matplotlib - The Power of Plots
+![alt text](https://github.com/Claude-Hanfou/Pymaceuticals-Analysis/blob/main/Pymaceuticals/Image/Laboratory.jpg "Laboratory")
 
 ## Background
 
@@ -37,18 +38,16 @@ Bar chart with DataFrame.plot
 Bar chart with DataFrame.pyplot
 ![alt text](https://github.com/Claude-Hanfou/Pymaceuticals-Analysis/blob/main/Pymaceuticals/Image/bar.pyplot.PNG "Bar 2")
 
-Two identical pie charts were generated showing distribution of female versus male mice in the study. This was done using DataFrame.plot and DataFrame.pyplot
-
-Pie chart with DataFrame.plot
+Pie chart with DataFrame.pyplot
 ![alt text](https://github.com/Claude-Hanfou/Pymaceuticals-Analysis/blob/main/Pymaceuticals/Image/pie.pandas.PNG "Pie 1")
 
 Pie chart with DataFrame.pyplot
 ![alt text](https://github.com/Claude-Hanfou/Pymaceuticals-Analysis/blob/main/Pymaceuticals/Image/pie.pyplot.PNG "Pie 2")
 
+
 ### Quartiles, Outliers and Boxplots
 
 The final tumor volume of each mouse across four of the most promising treatment regimens was created: Capomulin, Ramicane, Infubinol, and Ceftamin. Afterward the quartiles, IQR, and potential outliers across all the four treatment regimens was quantitatively determined.
-![alt text]()
 
 #### A Box and Whiskers Plot
 A box and whisker plot of the final tumor volume for all four treatment regimens was generated.
@@ -56,6 +55,7 @@ A box and whisker plot of the final tumor volume for all four treatment regimens
 
 ### Line and Scatter Plots
 The line chart was generated for a selected mouse (b742) treated with Capomulin analyzing tumor volume vs. time point.
+
 ![alt text](https://github.com/Claude-Hanfou/Pymaceuticals-Analysis/blob/main/Pymaceuticals/Image/line%20chart.PNG "Line chart")
 
 The scatter plot scatter plot of average tumor volume vs. mouse weight for the Capomulin regimen
