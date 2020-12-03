@@ -33,7 +33,7 @@ The summary statistics was generated using two methos, one using the groupby met
 Two identical bar charts were generated showing the total number of mice for each drug regimen during the study. This was done using DataFrame.plot and DataFrame.pyplot
 
 Bar chart with DataFrame.plot
-![alt text](https://github.com/Claude-Hanfou/Pymaceuticals-Analysis/blob/main/Pymaceuticals/Image/bar.pandas.PNG"Bar 1")
+![alt text](https://github.com/Claude-Hanfou/Pymaceuticals-Analysis/blob/main/Pymaceuticals/Image/bar.pandas.PNG "Bar 1")
 
 Bar chart with DataFrame.pyplot
 ![alt text](https://github.com/Claude-Hanfou/Pymaceuticals-Analysis/blob/main/Pymaceuticals/Image/bar.pyplot.PNG "Bar 2")
